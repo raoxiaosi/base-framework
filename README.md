@@ -4,7 +4,7 @@
 
 ### 项目环境
 
-##### 前端 [项目地址](https://github.com/Q1173419450/manage-system)
+##### 前端 [项目地址](https://github.com/raoxiaosi/base-framework-admin-view)
 > vue
 >
 ##### 后端
